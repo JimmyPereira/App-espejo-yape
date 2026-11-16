@@ -1,0 +1,6 @@
+{
+  "name": "Yape Espejo",
+  "description": "Clon funcional UI/UX de la billetera digital Yape Perú para pruebas de PIN, interoperabilidad BCRP, servicios, créditos y perfil RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
